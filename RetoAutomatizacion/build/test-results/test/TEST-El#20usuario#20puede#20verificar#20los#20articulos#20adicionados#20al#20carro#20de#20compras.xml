@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="El usuario puede verificar los articulos adicionados al carro de compras" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-13T21:55:25" hostname="QVT1MDEWIN7" time="70.928">
+  <properties/>
+  <testcase name="Verificar articulos adicionados al carro de compras" classname="El usuario puede verificar los articulos adicionados al carro de compras" time="70.928"/>
+  <system-out><![CDATA[Llegue
+]]></system-out>
+  <system-err><![CDATA[nov 13, 2020 4:55:27 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658}) on port 19077
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1605304530.607][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+nov 13, 2020 4:55:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

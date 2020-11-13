@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="El usuario puede agregar multiples articulos al carro de compras" skipped="0" tests="1" time="15.07" timestamp="2020-11-11 12:56:54"><testcase name="Agregar ariculos de la tienda online al carro de compras"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.reto.web.tasks.agregararticulos.SeleccionarArticulos.paraAgregarAlCarrito(SeleccionarArticulos.java:29)&#13;
+co.com.reto.web.stepdefinitions.agregararticulos.AgregarArticulosStepDefinitions.adicione_un_articulo_al_carro_de_compras(AgregarArticulosStepDefinitions.java:35)&#13;
+✽.adicione un articulo al carro de compras(src/test/resources/features/agregararticulos/agregar_articulos.feature:11)&#13;
+</system-err></testcase></testsuite>
